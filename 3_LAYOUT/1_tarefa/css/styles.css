@@ -1,0 +1,23 @@
+.container {
+    background-color: gray;
+    border: 1px solid black;
+}
+
+.row {
+    background-color: antiquewhite;
+    border: 1px solid red;
+    height: 100px;
+}
+
+.col {
+    background-color: aquamarine;
+    border: 1px solid green;
+}
+
+.impar {
+    background-color: beige;
+}
+
+.par {
+    background-color: burlywood;
+}
