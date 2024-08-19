@@ -1,0 +1,15 @@
+.container .row .col a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    text-decoration: none;
+}
+
+.iconcolor {
+    color: gray;
+}
+
+.bi-bell {
+    font-size: 40px;
+    color: green;
+    margin: 20px;
+}
