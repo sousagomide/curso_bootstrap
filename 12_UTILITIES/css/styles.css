@@ -5,3 +5,16 @@ body {
 .col-12 {
     height: 50px;
 }
+
+.altura {
+    height: 500px;
+}
+
+.box {
+    border: 1px solid red ;
+}
+
+.box-com-wrap {
+    width: 50px;
+    border: 1px solid red;
+}
